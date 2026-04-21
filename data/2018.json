@@ -1,0 +1,482 @@
+[
+  {
+    "year": 2018,
+    "assignment_no": 1,
+    "question": "Which of the following is NOT one of the ways of acquiring knowledge about the world?",
+    "options": ["Tenacity", "Authority", "Intuition", "Self-Realization"],
+    "correct_answer": "Self-Realization",
+    "explanation": "Standard psychological and scientific frameworks for acquiring knowledge include tenacity, authority, intuition, and the scientific method; 'Self-Realization' is not typically listed among these specific epistemic methods[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 1,
+    "question": "A systematic way of acquiring knowledge by using the observation and the experimental method is known as:",
+    "options": ["Intuition", "Authority", "Science", "Tenacity"],
+    "correct_answer": "Science",
+    "explanation": "Science is defined by its reliance on systematic observation and experimental methods to understand phenomena[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 1,
+    "question": "The field of study that focuses on how people think and how people process information is known as:",
+    "options": ["Behavioral Psychology", "Clinical Psychology", "Cognitive Psychology", "Evolutionary Psychology"],
+    "correct_answer": "Cognitive Psychology",
+    "explanation": "Cognitive Psychology specifically investigates mental processes such as thinking, memory, and information processing[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 1,
+    "question": "The analysis of the mind in terms of its smallest units is known as:",
+    "options": ["Behaviorism", "Structuralism", "Functionalism", "Associationism"],
+    "correct_answer": "Structuralism",
+    "explanation": "Structuralism, founded by Wundt and Titchener, aimed to break down the mind into its basic foundational units[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 1,
+    "question": "The field of psychology that only focused on the objective and the observable behavior of the human is known as:",
+    "options": ["Structuralism", "Functionalism", "Behaviorism", "Cognitive Psychology"],
+    "correct_answer": "Behaviorism",
+    "explanation": "Behaviorism rejected the study of internal mental states in favor of observable and objective behaviors[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 2,
+    "question": "Which of the following processes the sensations coming into each sense organ, allowing us to understand and interpret the sensations we receive?",
+    "options": ["environment", "sensory system", "stimulus", "brain"],
+    "correct_answer": "sensory system",
+    "explanation": "The sensory system receives raw physical data and prepares it for the brain to interpret as meaningful perceptions[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 2,
+    "question": "Which of these psychological approaches focuses on how humans use organization to understand our surroundings?",
+    "options": ["perception-action", "gestalt", "top-down", "computational"],
+    "correct_answer": "gestalt",
+    "explanation": "Gestalt psychology emphasizes that the brain uses specific organizational principles (like proximity and similarity) to perceive patterns and wholes[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 2,
+    "question": "The two best studied forms of perception are:",
+    "options": ["visual and auditory", "visual and olfactory", "visual and haptic", "auditory and olfactory"],
+    "correct_answer": "visual and auditory",
+    "explanation": "Visual and auditory perception are the most extensively researched areas in the study of human sensory systems[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 2,
+    "question": "Reversible figures illustrate the:",
+    "options": ["bottom-up processing", "figure-ground organization", "size constancy", "retinal imagery"],
+    "correct_answer": "figure-ground organization",
+    "explanation": "Reversible figures show how our perception can shift between what it considers the primary 'figure' and the 'ground' background[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 2,
+    "question": "A stencil provides a good analogy for the theory of:",
+    "options": ["top-down processing", "template matching", "good continuation", "featural analysis"],
+    "correct_answer": "template matching",
+    "explanation": "Template matching theory suggests that recognition occurs by comparing sensory input to exact mental stencils or templates[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 3,
+    "question": "Noticing a red flower among a field of purple flowers illustrates:",
+    "options": ["the attention capture phenomenon", "the cocktail party effect", "the bottleneck of attention", "a shadowing task"],
+    "correct_answer": "the attention capture phenomenon",
+    "explanation": "Attention capture occurs when a highly distinctive stimulus automatically draws focus due to its contrast with its environment[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 3,
+    "question": "According to Treisman, if you listen to two competing messages simultaneously, you are more likely to pick up information from the second message if that message:",
+    "options": ["relates to the other message", "was spoken more slowly", "includes a spotlight", "is louder"],
+    "correct_answer": "relates to the other message",
+    "explanation": "Treisman's Attenuation Theory suggests that meaningful or related unattended information can still be processed[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 3,
+    "question": "Stroop interference lessens when:",
+    "options": ["participants are given more practice at naming colors", "participants are encouraged to focus carefully", "participants are given more practice at reading color names", "participants are better readers"],
+    "correct_answer": "participants are given more practice at naming colors",
+    "explanation": "Increasing the automaticity of color naming through practice helps override the automatic habit of reading the word[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 3,
+    "question": "Hearing your name spoken in a different conversation across the room is an example of the:",
+    "options": ["Stroop effect", "cocktail party effect", "dichotic listening phenomenon", "attenuation effect"],
+    "correct_answer": "cocktail party effect",
+    "explanation": "The cocktail party effect refers to the ability to focus on one conversation while still detecting salient cues (like one's name) from others[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 3,
+    "question": "Broadbent argued that an attentional filter selects information based on:",
+    "options": ["the meaning of the message", "a physical characteristic of the message", "the importance of the message", "the number of repetitions of the message"],
+    "correct_answer": "a physical characteristic of the message",
+    "explanation": "Broadbent's filter theory posits that information is filtered early based on physical attributes like location or pitch[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 4,
+    "question": "Remembering your phone number in sequences such as xxx-xxx-xxxx is an example of:",
+    "options": ["short-term memory", "encoding", "sensory memory", "chunking"],
+    "correct_answer": "chunking",
+    "explanation": "Chunking is the grouping of individual pieces of information into larger, familiar units to increase memory capacity[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 4,
+    "question": "The briefest form of memory is:",
+    "options": ["long-term", "working", "short-term", "sensory"],
+    "correct_answer": "sensory",
+    "explanation": "Sensory memory holds literal representations of sensory input for only a few hundred milliseconds[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 4,
+    "question": "The suffix effect relates to which type of memory?",
+    "options": ["iconic", "echoic", "short term", "long term"],
+    "correct_answer": "echoic",
+    "explanation": "The suffix effect is an auditory phenomenon where memory for the last item in a list is hindered by an irrelevant sound[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 4,
+    "question": "If the size of the memory set affects search time in short-term memory, it suggests that search is a:",
+    "options": ["serial process", "parallel process", "self-terminating process", "random process"],
+    "correct_answer": "serial process",
+    "explanation": "A linear increase in response time as the memory set grows indicates that items are compared one at a time (serially)[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 4,
+    "question": "Which component of working memory is used when repeating a phone number to yourself?",
+    "options": ["visuospatial sketchpad", "phonological loop", "episodic buffer", "central executive"],
+    "correct_answer": "phonological loop",
+    "explanation": "The phonological loop is the component of working memory that handles verbal and auditory information through sub-vocal rehearsal[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 5,
+    "question": "Ebbinghaus's forgetting curve demonstrates that:",
+    "options": ["Forgetting is rapid at first and then levels off", "forgetting is slow at first and then speeds up", "forgetting occurs at a steady pace", "forgetting only happens after 24 hours"],
+    "correct_answer": "Forgetting is rapid at first and then levels off",
+    "explanation": "Ebbinghaus discovered that the majority of information is forgotten shortly after learning, but the rate of loss slows significantly thereafter[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 5,
+    "question": "Which of the following would be a part of your declarative memory system?",
+    "options": ["being able to name a hybrid car", "knowing how to react to a red light", "knowing how to drive a car", "knowing how to ride a bicycle"],
+    "correct_answer": "being able to name a hybrid car",
+    "explanation": "Declarative memory involves facts and knowledge that can be explicitly stated, such as naming an object[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 5,
+    "question": "A schema for a routine event, such as going to the dentist, is called a:",
+    "options": ["script", "category", "exemplar", "prototype"],
+    "correct_answer": "script",
+    "explanation": "A script is a mental framework for a sequence of events in a familiar setting[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 5,
+    "question": "Information such as the name of a classmate from fifth grade is stored in:",
+    "options": ["sensory memory", "short-term memory", "working memory", "long-term memory"],
+    "correct_answer": "long-term memory",
+    "explanation": "Long-term memory is responsible for the permanent or semi-permanent storage of large amounts of information over long durations[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 5,
+    "question": "The term 'anterograde amnesia' refers to:",
+    "options": ["the loss of the ability to form new memories", "the loss of the ability to recall old events", "the loss of short-term memory", "the loss of all memory capacity"],
+    "correct_answer": "the loss of the ability to form new memories",
+    "explanation": "Anterograde amnesia is the inability to create new memories following the event that caused the amnesia[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 6,
+    "question": "According to the notion of cognitive economy, a characteristic like 'has wings' would be stored with which node?",
+    "options": ["bird", "ostrich", "robin", "all of these"],
+    "correct_answer": "bird",
+    "explanation": "Cognitive economy implies that shared properties are stored at the highest level of a hierarchy to save mental resources[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 6,
+    "question": "People verify 'A pig is an animal' faster than 'A pig is a mammal' because:",
+    "options": ["'animal' is more frequently associated", "mammals are more complex", "pig is not a mammal", "they are on the same level"],
+    "correct_answer": "'animal' is more frequently associated",
+    "explanation": "Despite hierarchies, frequently associated concepts are verified more quickly, contradicting strict hierarchical network models[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 6,
+    "question": "The statement 'Siamese cats have blue eyes' will be verified:",
+    "options": ["faster than 'Siamese cats have tails'", "slower than 'Siamese cats have tails'", "at the same speed", "it cannot be verified"],
+    "correct_answer": "faster than 'Siamese cats have tails'",
+    "explanation": "Properties unique to a specific level (like blue eyes for Siamese cats) are verified faster than properties shared with higher levels (like tails)[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 6,
+    "question": "Which memory system contains knowledge of how to perform tasks and skills?",
+    "options": ["declarative memory", "procedural memory", "episodic memory", "semantic memory"],
+    "correct_answer": "procedural memory",
+    "explanation": "Procedural memory is the system used for learned motor skills and physical actions[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 6,
+    "question": "Priming in lexical decision tasks (responding to 'bread' faster when preceded by 'butter') is explained by:",
+    "options": ["cognitive economy", "schemata", "typicality", "spreading activation"],
+    "correct_answer": "spreading activation",
+    "explanation": "Activation moves through a network to related concepts, making them easier to retrieve[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 7,
+    "question": "A mental representation of a category of things in the world is known as a(n):",
+    "options": ["stereotype", "prototype", "example", "concept"],
+    "correct_answer": "concept",
+    "explanation": "Concepts are the building blocks of thought that represent categories of items or ideas[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 7,
+    "question": "'Characteristic features' and 'family resemblance' are important aspects of which view?",
+    "options": ["classical", "prototype", "exemplar", "schema"],
+    "correct_answer": "prototype",
+    "explanation": "The prototype view focuses on the average or typical member of a category rather than strict rules[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 7,
+    "question": "Categorizing new instances by comparing them to specifically stored memories is the:",
+    "options": ["classical view", "prototype view", "exemplar view", "schema view"],
+    "correct_answer": "exemplar view",
+    "explanation": "The exemplar view suggests we match new items against all the specific examples of a category we have stored[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 7,
+    "question": "If 'soda' is a basic-level category, then a superordinate level would be:",
+    "options": ["soft drink", "beverage", "Coca-Cola", "Sprite"],
+    "correct_answer": "beverage",
+    "explanation": "Superordinate levels are more general than basic levels (e.g., beverage is more general than soda)[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 7,
+    "question": "The view that categorizing involves using theories to justify inclusion is the:",
+    "options": ["prototype view", "exemplar view", "schema view", "knowledge-based view"],
+    "correct_answer": "knowledge-based view",
+    "explanation": "The knowledge-based view emphasizes using prior knowledge and causal theories to categorize[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 8,
+    "question": "Mnemonic devices like the method of loci and pegword method rely on:",
+    "options": ["verbal rehearsal", "creating a story", "visual imagery", "connecting well-known info"],
+    "correct_answer": "visual imagery",
+    "explanation": "These techniques use mental pictures to anchor new information to existing memories[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 8,
+    "question": "According to the dual-coding hypothesis, which pair is easiest to remember?",
+    "options": ["fire-inspiration", "ferret-catalog", "freedom-honesty", "cat-liberty"],
+    "correct_answer": "ferret-catalog",
+    "explanation": "Concrete word pairs are easier to remember because they can be stored as both words and images[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 8,
+    "question": "Finke's principle of ______ states that imagery allows retrieval of info not intentionally stored:",
+    "options": ["perceptual equivalence", "transformational equivalence", "implicit encoding", "structural encoding"],
+    "correct_answer": "implicit encoding",
+    "explanation": "Implicit encoding means mental images contain details we may not have consciously focused on during initial viewing[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 8,
+    "question": "A mental map of a campus is likely to be:",
+    "options": ["larger than reality", "smaller than reality", "more regular/rectilinear", "less regular"],
+    "correct_answer": "more regular/rectilinear",
+    "explanation": "Cognitive maps tend to be simplified and made more symmetrical than real-world geography[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 8,
+    "question": "Cooper's mental rotation studies showed that rotation time was:",
+    "options": ["faster for complex objects", "slower for complex objects", "the same regardless of complexity", "impossible for complex objects"],
+    "correct_answer": "the same regardless of complexity",
+    "explanation": "Mental rotation appears to be a holistic process that takes the same time for simple and complex shapes[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 9,
+    "question": "The primary purpose of language is generally agreed to be:",
+    "options": ["control", "communication", "identification", "isolation"],
+    "correct_answer": "communication",
+    "explanation": "Language is fundamentally used for the transmission of ideas and social interaction[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 9,
+    "question": "Meaning is to ______ as grammar is to ______:",
+    "options": ["semantics; syntax", "syntax; semantics", "phonology; pragmatics", "pragmatics; phonology"],
+    "correct_answer": "semantics; syntax",
+    "explanation": "Semantics covers the meaning of language; syntax covers the rules for structuring sentences[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 9,
+    "question": "The smallest unit of language that carries consistent meaning is a:",
+    "options": ["phoneme", "morpheme", "phonetic", "syntactic"],
+    "correct_answer": "morpheme",
+    "explanation": "Morphemes are the basic units of meaning (e.g., 'un-', 'break', '-able')[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 9,
+    "question": "Whorf's linguistic relativity hypothesis asserts that:",
+    "options": ["thought depends on language", "language depends on thought", "they are independent", "they are the same"],
+    "correct_answer": "thought depends on language",
+    "explanation": "The hypothesis posits that the language we speak influences or determines the way we perceive and think[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 9,
+    "question": "Damage to Broca's area leads to:",
+    "options": ["expressive aphasia", "receptive aphasia", "blindness", "deafness"],
+    "correct_answer": "expressive aphasia",
+    "explanation": "Broca's aphasia involves difficulty producing speech while understanding remains mostly intact[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 10,
+    "question": "A ______ problem has a clear goal, set of info, and rules for attainment:",
+    "options": ["classic", "laboratory", "well-defined", "introspective"],
+    "correct_answer": "well-defined",
+    "explanation": "Well-defined problems have clear starting and ending points and specific operations to reach the goal[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 10,
+    "question": "The technique of comparing goals to starting points to bridge the gap is:",
+    "options": ["generate-and-test", "means-end analysis", "analogical reasoning", "mental set"],
+    "correct_answer": "means-end analysis",
+    "explanation": "Means-end analysis involves creating subgoals to systematically reduce the distance to a final solution[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 10,
+    "question": "A tendency to use a specific framework or strategy that may hinder success is a:",
+    "options": ["mental set", "functional fixedness", "well-defined thinking", "ill-defined thinking"],
+    "correct_answer": "mental set",
+    "explanation": "A mental set can cause a person to blindly follow a familiar solution even if it's no longer efficient[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 10,
+    "question": "Failing to use a screwdriver as a pendulum due to its typical use is:",
+    "options": ["functional fixedness", "mental set", "incomplete representation", "analogical transfer"],
+    "correct_answer": "functional fixedness",
+    "explanation": "Functional fixedness is a cognitive bias that limits a person to using an object only in its traditional way[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 10,
+    "question": "Observation of the contents of your consciousness is called:",
+    "options": ["thinking", "daydreaming", "problem solving", "introspection"],
+    "correct_answer": "introspection",
+    "explanation": "Introspection is the examination of one's own conscious thoughts and feelings[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 11,
+    "question": "Deductive reasoning involves:",
+    "options": ["general to specific", "specific to general", "conclusions adding new info", "specific to specific"],
+    "correct_answer": "general to specific",
+    "explanation": "Deduction starts with general premises to arrive at a certain, specific conclusion[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 11,
+    "question": "Seeking info that supports current beliefs is:",
+    "options": ["believability effect", "content effect", "confirmation bias", "syllogistic reasoning"],
+    "correct_answer": "confirmation bias",
+    "explanation": "Confirmation bias is the tendency to favor information that confirms existing hypotheses[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 11,
+    "question": "The gambler's fallacy is a special instance of:",
+    "options": ["framing", "availability", "belief in law of small numbers", "hindsight"],
+    "correct_answer": "belief in law of small numbers",
+    "explanation": "It's the mistaken belief that a small sample (like coin flips) must represent the overall probability[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 11,
+    "question": "When premises make a conclusion probable but not certain, the argument has:",
+    "options": ["deductive validity", "deductive strength", "inductive validity", "inductive strength"],
+    "correct_answer": "inductive strength",
+    "explanation": "Induction provides conclusions that are likely rather than guaranteed[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 11,
+    "question": "Which card task showed that people neglect modus tollens?",
+    "options": ["Wason's four-card task", "Stroop task", "lexical decision task", "partial-report task"],
+    "correct_answer": "Wason's four-card task",
+    "explanation": "Most participants in this task failed to turn over the card that could falsify the logical rule[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 12,
+    "question": "Expected utility theory is usually regarded as a ______ model:",
+    "options": ["descriptive", "prescriptive", "normative", "dual"],
+    "correct_answer": "normative",
+    "explanation": "Normative models define the standard of 'rational' choice[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 12,
+    "question": "Continuing a failing task because of time and effort already spent is:",
+    "options": ["sunk cost effect", "framing effect", "anchor effect", "availability bias"],
+    "correct_answer": "sunk cost effect",
+    "explanation": "The sunk cost effect is the irrational tendency to persist in an endeavor once an investment has been made[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 12,
+    "question": "Which normative model integrates dimensions of complex decisions?",
+    "options": ["expected utility", "MAUT", "prospect theory", "EU"],
+    "correct_answer": "MAUT",
+    "explanation": "Multi-Attribute Utility Theory provides a formal method for making decisions between complex alternatives[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 12,
+    "question": "Judging words with 'L' as the first letter as more common than 'L' as the third letter is:",
+    "options": ["representativeness", "availability", "framing", "hindsight"],
+    "correct_answer": "availability",
+    "explanation": "It's easier to think of words starting with 'L', so we assume they are more frequent (availability heuristic)[cite: 12130, 12155]."
+  },
+  {
+    "year": 2018,
+    "assignment_no": 12,
+    "question": "The mistake of believing random events are influenced by previous random events is:",
+    "options": ["gambler's fallacy", "psychological accounting", "sunk cost", "means-end"],
+    "correct_answer": "gambler's fallacy",
+    "explanation": "The gambler's fallacy incorrectly assumes that if an event happens more frequently than normal, it will happen less frequently in the future[cite: 12130, 12155]."
+  }
+]
