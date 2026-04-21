@@ -1,0 +1,1619 @@
+[
+  {
+    "year": 2026,
+    "assignment_no": 0,
+    "question": "If you want to learn about cause and effect, you must use the experimental method",
+    "options": ["True", "False"],
+    "correct_answer": "True",
+    "explanation": "The experimental method is the only research design that can establish a formal cause-and-effect relationship by manipulating an independent variable and observing its effect on a dependent variable while controlling for extraneous factors."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 0,
+    "question": "It is easier to recognize the letter “X” within the word “TEXT” than the letter “X” presented on its own",
+    "options": ["True", "False"],
+    "correct_answer": "True",
+    "explanation": "This is known as the Word Superiority Effect. Cognitive research shows that people have better recognition for letters when they appear in the context of a word rather than in isolation or in a non-word string."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 0,
+    "question": "Suppose you look at a vehicle and end up by just remembering ‘—nda’ from the manufacturers name. You then come up with the Honda to the manufacturer’s name. You have used",
+    "options": [
+      "bottom up processing",
+      "top down processing",
+      "primacy effect",
+      "recency effect"
+    ],
+    "correct_answer": "top down processing",
+    "explanation": "Top-down processing occurs when you use your prior knowledge, expectations, and context to fill in missing sensory information. Using your knowledge of car brands to complete '—nda' is a classic example."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 0,
+    "question": "Eye witness testimony are mostly flawed. An optimal method for improving the accuracy of such testimony is",
+    "options": [
+      "police interview",
+      "hypnosis",
+      "cognitive interview",
+      "cued recall"
+    ],
+    "correct_answer": "cognitive interview",
+    "explanation": "The cognitive interview uses various memory-retrieval techniques (like mental reinstatement of environmental context) to increase the amount of accurate information recalled without increasing false memories."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 0,
+    "question": "Ramu is given directions to village temple. After some time he remembers only the first couple of instructions. This phenomena illustrates",
+    "options": [
+      "primacy effect",
+      "recency effect",
+      "forgetting",
+      "availability"
+    ],
+    "correct_answer": "primacy effect",
+    "explanation": "The primacy effect is the tendency to remember the first items in a list or sequence better than the items in the middle."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 0,
+    "question": "The belief that most of our abilities and tendencies are with us from birth is known as",
+    "options": [
+      "nativism",
+      "empiricism",
+      "associationism",
+      "introspection"
+    ],
+    "correct_answer": "nativism",
+    "explanation": "Nativism is the philosophical position that certain skills or abilities are 'native' or hard-wired into the brain at birth, as opposed to empiricism which suggests knowledge comes from experience."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 0,
+    "question": "Noam Chomsky revolutionized the field of _________ and showed how behaviorism could not adequately explain language",
+    "options": [
+      "neuroscience",
+      "computer science",
+      "human factors",
+      "linguistics"
+    ],
+    "correct_answer": "linguistics",
+    "explanation": "Chomsky's critique of Skinner's 'Verbal Behavior' was a cornerstone of the Cognitive Revolution, arguing that language is an innate human faculty that follows complex rules (Universal Grammar)."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 0,
+    "question": "That guest star on your favorite television show looks familiar. You’re sure that you’ve seen him before, but you can’t think of his name. The fact that you know you have seen the face before is",
+    "options": [
+      "perception",
+      "attention",
+      "recognition",
+      "recall"
+    ],
+    "correct_answer": "recognition",
+    "explanation": "Recognition is the ability to identify information as being familiar or previously encountered. Recall involves retrieving the specific details (like a name) from memory."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 0,
+    "question": "The belief that psychological phenomena cannot be reduced to simple elements but must be studied in their entirety is central to the school known as",
+    "options": [
+      "Structuralism",
+      "Gestalt psychology",
+      "Functionalism",
+      "Behaviorism"
+    ],
+    "correct_answer": "Gestalt psychology",
+    "explanation": "Gestalt psychology is founded on the principle that 'the whole is greater than the sum of its parts,' emphasizing that perception is more than just the collection of individual sensations."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 0,
+    "question": "A body of knowledge structured according to what its proponents consider important, which guides research topics and research methods, is called a ___________",
+    "options": [
+      "paradigm",
+      "hypothesis",
+      "methodology",
+      "metaphor"
+    ],
+    "correct_answer": "paradigm",
+    "explanation": "In science, a paradigm is a distinct set of concepts or thought patterns, including theories and research methods, that constitute a legitimate contribution to a field."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 1,
+    "question": "The school of psychology known as functionalism, which emphasized the purposes of the mind’s operations, was founded by:",
+    "options": ["Wilhelm Wundt", "John Watson", "William James", "Edward Titchener"],
+    "correct_answer": "William James",
+    "explanation": "William James founded functionalism, focusing on how mental processes help individuals adapt to their environments, contrasting with structuralism's focus on basic elements."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 1,
+    "question": "The fact that you know you have seen the face before but cannot remember the name of the person, illustrates the cognitive process of:",
+    "options": ["perception", "attention", "recognition", "recall"],
+    "correct_answer": "recognition",
+    "explanation": "Recognition involves identifying an item as familiar, whereas recall requires retrieving specific details (like a name) from memory without an immediate external cue."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 1,
+    "question": "The term _________ refers to the relevance of the research to the 'real world.'",
+    "options": ["internal validity", "evolutionary validity", "ecological validity", "neural validity"],
+    "correct_answer": "ecological validity",
+    "explanation": "Ecological validity is the extent to which the findings of a research study are able to be generalized to real-life settings."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 1,
+    "question": "_______________ challenged the assumption that mental events were beyond the realm of scientific study.",
+    "options": ["cognitive revolution", "behaviorist rebellion", "human factors movement", "universal grammar"],
+    "correct_answer": "cognitive revolution",
+    "explanation": "The cognitive revolution in the 1950s and 60s shifted psychology away from behaviorism by asserting that internal mental states could be studied scientifically."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 1,
+    "question": "Since the 1970s, various techniques of _________ have allowed us to construct pictures of the anatomy and functioning of intact brains.",
+    "options": ["genetic engineering", "brain imaging", "neurosurgery", "brain lesioning"],
+    "correct_answer": "brain imaging",
+    "explanation": "Techniques such as CT, MRI, and fMRI allow researchers to observe the structure and activity of the brain non-invasively."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 1,
+    "question": "Historians date the founding of scientific psychology to the 1879 laboratory of:",
+    "options": ["Williams James.", "Wilhelm Wundt.", "John Locke.", "Edward Titchener"],
+    "correct_answer": "Wilhelm Wundt.",
+    "explanation": "Wilhelm Wundt established the first formal laboratory for psychological research at the University of Leipzig in 1879."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 1,
+    "question": "The term 'limited capacity processors' suggests that:",
+    "options": ["humans have limited memory storage.", "human beings can only do so many things at once", "neurons can only fire at a certain rate", "processing in the brain occurs in parallel"],
+    "correct_answer": "human beings can only do so many things at once",
+    "explanation": "This concept refers to the idea that humans have a finite amount of cognitive resources available for processing information at any given time."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 1,
+    "question": "This psychologist sought to describe the intellectual structures underlying cognitive experience at different developmental points through an approach he called genetic epistemology:",
+    "options": ["Galton", "Skinner", "Wundt", "Piaget"],
+    "correct_answer": "Piaget",
+    "explanation": "Jean Piaget's theory of cognitive development, or genetic epistemology, explores how children's mental structures grow and change through distinct stages."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 1,
+    "question": "Clinical interviews are to introspection as ______ are to __________.",
+    "options": ["naturalistic observations; experiments", "naturalistic observations; quasi-experiments", "controlled observations; naturalistic observations", "controlled observations; experiments"],
+    "correct_answer": "controlled observations; naturalistic observations",
+    "explanation": "This analogy compares formal, structured methods of gathering data (clinical interviews/controlled observations) with more informal or self-reported methods (introspection/naturalistic observations)."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 1,
+    "question": "Which of the following is a basic assumption of the connectionist approach?",
+    "options": ["serial processing", "multiple stores where information is kept throughout processing", "networks of connections among simple processing units", "a central processor that directs the flow of information"],
+    "correct_answer": "networks of connections among simple processing units",
+    "explanation": "Connectionism (Parallel Distributed Processing) models cognition as the emergent behavior of large networks of interconnected simple units, similar to neural networks."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 2,
+    "question": "A toy on the table represents:",
+    "options": [
+      "distal stimulus.",
+      "proximal stimulus.",
+      "retinal image.",
+      "percept."
+    ],
+    "correct_answer": "distal stimulus.",
+    "explanation": "A distal stimulus refers to the actual object existing in the outside world (like the toy on the table), whereas the proximal stimulus refers to the sensory energy it projects onto our receptors."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 2,
+    "question": "A patient with prosopagnosia has difficulty recognizing:",
+    "options": [
+      "drawing of objects.",
+      "moving objects.",
+      "faces.",
+      "sounds."
+    ],
+    "correct_answer": "faces.",
+    "explanation": "Prosopagnosia, also known as face blindness, is a cognitive disorder of face perception where the ability to recognize familiar faces, including one's own face, is impaired."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 2,
+    "question": "When you let go of a balloon and it floats away from you into the sky, the size of the retinal image gets smaller and smaller. However, you do not perceive the balloon as shrinking. This is an example of:",
+    "options": [
+      "pattern recognition.",
+      "bottom-up processing.",
+      "size constancy.",
+      "figure-ground organization."
+    ],
+    "correct_answer": "size constancy.",
+    "explanation": "Size constancy is the perceptual mechanism that allows us to perceive an object as maintaining its true size despite the changing size of its image on our retina as distance varies."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 2,
+    "question": "The meaningful interpretation of a proximal stimulus is called the:",
+    "options": [
+      "percept.",
+      "sensation.",
+      "distal stimulus.",
+      "retinal image."
+    ],
+    "correct_answer": "percept.",
+    "explanation": "A percept is the mental representation or subjective experience of a stimulus after the brain has processed and meaningfully interpreted the raw sensory data (proximal stimulus)."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 2,
+    "question": "The two best studied forms of perception are:",
+    "options": [
+      "visual and haptic.",
+      "visual and olfactory.",
+      "visual and auditory.",
+      "auditory and olfactory"
+    ],
+    "correct_answer": "visual and auditory.",
+    "explanation": "In cognitive psychology and neuroscience, vision and hearing (audition) are the most extensively researched and understood perceptual systems."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 2,
+    "question": "Which of the following represents a good example of a proximal stimulus?",
+    "options": [
+      "a book on a shelf.",
+      "a tree in your yard.",
+      "a building on the horizon.",
+      "the retinal image formed by a tree."
+    ],
+    "correct_answer": "the retinal image formed by a tree.",
+    "explanation": "The proximal stimulus is the physical energy that directly stimulates our sensory receptors. In vision, this is the pattern of light forming an image on the retina. The tree itself is the distal stimulus."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 2,
+    "question": "According to Gibson’s theory, the acts or behaviors permitted by objects, places, and events are called:",
+    "options": [
+      "consequences.",
+      "functions.",
+      "affordances.",
+      "direct processes."
+    ],
+    "correct_answer": "affordances.",
+    "explanation": "In J.J. Gibson's ecological approach to perception, affordances represent the action possibilities that the environment offers the observer (e.g., a chair affords sitting, a knob affords turning)."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 2,
+    "question": "A stencil provides a good analogy for the theory of:",
+    "options": [
+      "prototype matching.",
+      "template matching.",
+      "good continuation.",
+      "featural analysis."
+    ],
+    "correct_answer": "template matching.",
+    "explanation": "Template matching theory suggests that we recognize an object by comparing it to exact, holistic, stored representations (templates) in memory, much like fitting a shape into a physical stencil."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 2,
+    "question": "___________ are to visual perception what phonemes are to language, according to Biederman.",
+    "options": [
+      "receptors.",
+      "retinas.",
+      "distal stimuli.",
+      "geons."
+    ],
+    "correct_answer": "geons.",
+    "explanation": "Irving Biederman's Recognition-by-Components theory posits that visual objects are recognized by breaking them down into fundamental 3D geometric shapes called geons (geometric ions)."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 2,
+    "question": "The principle governing reversible figures is:",
+    "options": [
+      "figure-ground organization.",
+      "size constancy.",
+      "dimensionality.",
+      "retinal imagery."
+    ],
+    "correct_answer": "figure-ground organization.",
+    "explanation": "Figure-ground organization is a Gestalt principle where the visual system simplifies a scene into the main object of focus (figure) and the background (ground). Reversible figures exploit this by making both components interchangeable."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 3,
+    "question": "According to Attenuation theory of Treisman, people tend to process:",
+    "options": [
+      "only to the level of physical characteristics.",
+      "only to the level of linguistic characteristics, separating it into words.",
+      "at a semantic level, analyzing for meaning most of the time.",
+      "only as much as is necessary to separate the attended from the unattended message"
+    ],
+    "correct_answer": "only as much as is necessary to separate the attended from the unattended message",
+    "explanation": "Treisman's Attenuation Theory proposes that unattended messages are attenuated (weakened) rather than completely filtered out early on, and processing of unattended information proceeds only as far as necessary to distinguish it from the attended message."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 3,
+    "question": "The “cocktail party effect” refers to the fact that shadowing performance is disrupted when _______ is embedded in the unattended message.",
+    "options": [
+      "backward speech",
+      "the listener’s name",
+      "a section of repeated words",
+      "music"
+    ],
+    "correct_answer": "the listener’s name",
+    "explanation": "The cocktail party effect demonstrates that highly salient personal information, such as one's own name, can capture attention even when it is presented in an unattended channel, briefly disrupting the primary task."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 3,
+    "question": "In Kahneman’s model of attention, allocation of mental resources is affected by preferences for certain kinds of tasks over others. These preferences are known as:",
+    "options": [
+      "enduring dispositions.",
+      "arousal states.",
+      "late selection preferences.",
+      "momentary intentions."
+    ],
+    "correct_answer": "enduring dispositions.",
+    "explanation": "In Kahneman's capacity model of attention, 'enduring dispositions' are automatic, built-in biases or preferences to attend to certain types of stimuli, such as a sudden loud noise or a novel event."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 3,
+    "question": "The word “cat” is ______ by the phrase “The dog chased the….”  That is, the word cat is especially ready to be recognized or attended to.",
+    "options": [
+      "filtered.",
+      "attenuated.",
+      "primed.",
+      "suggested."
+    ],
+    "correct_answer": "primed.",
+    "explanation": "Priming occurs when exposure to one stimulus influences the response to a subsequent stimulus. The contextual phrase primes the semantic network, making related words like 'cat' more readily accessible."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 3,
+    "question": "When listening to a conversation, your attention is momentarily diverted when you hear your name spoken in a different conversation across the room.  This is an example of the:",
+    "options": [
+      "filter effect.",
+      "dichotic listening phenomenon.",
+      "cocktail party effect.",
+      "attenuation effect."
+    ],
+    "correct_answer": "cocktail party effect.",
+    "explanation": "The cocktail party effect is the phenomenon of being able to focus one's auditory attention on a particular stimulus while filtering out a range of other stimuli, yet still being able to detect words of high personal importance."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 3,
+    "question": "Which of the following would NOT be a reasonable basis for filtering, according to Broadbent’s model?",
+    "options": [
+      "whether the message was coming from your right or your left side",
+      "the pitch of the voice reading the message",
+      "the loudness of the voice reading the message",
+      "the language that the message was being read in"
+    ],
+    "correct_answer": "the language that the message was being read in",
+    "explanation": "Broadbent's early-selection filter model argues that filtering occurs based on physical characteristics of the stimulus (like pitch, loudness, or spatial location) before semantic processing (understanding the language or meaning) takes place."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 3,
+    "question": "Cognitive psychologists use all of the following as criteria for determining whether an activity is automatic EXCEPT:",
+    "options": [
+      "whether it occurs intentionally.",
+      "whether it gives rise to conscious awareness.",
+      "whether it interferes with other activities.",
+      "whether it requires mental filtering"
+    ],
+    "correct_answer": "whether it requires mental filtering",
+    "explanation": "Standard criteria for automaticity include occurring without intention, without conscious awareness, and without interfering with other mental activities. 'Mental filtering' is not a standard defining criterion for an automatic process."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 3,
+    "question": "Certain stimuli seem to jump off the page at the viewer, causing an involuntary shift of attention that is referred to as:",
+    "options": [
+      "the Stroop effect.",
+      "attentional capture.",
+      "attenuation.",
+      "the cocktail party effect."
+    ],
+    "correct_answer": "attentional capture.",
+    "explanation": "Attentional capture is the phenomenon in which attention is involuntarily drawn to a highly salient or sudden stimulus, overriding the current goal-directed focus."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 3,
+    "question": "Stroop interference lessens when:",
+    "options": [
+      "participants are better readers.",
+      "participants are given more practice at naming colors.",
+      "participants are girls rather than boys.",
+      "participants are encouraged to focus carefully."
+    ],
+    "correct_answer": "participants are given more practice at naming colors.",
+    "explanation": "In the Stroop task, reading words is a highly automatic process compared to naming ink colors. Practicing the less automatic task (naming colors) can reduce the interference effect caused by the automatic reading response."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 3,
+    "question": "Research on divided attention suggests that:",
+    "options": [
+      "some people can multitask without any drop in performance.",
+      "there are no limits on the number of things that we can successfully do at once.",
+      "as individual tasks become more demanding, multitasking becomes more efficient.",
+      "if you think that you are doing two things simultaneously, you are probably really rapidly switching attention back and forth between the two."
+    ],
+    "correct_answer": "if you think that you are doing two things simultaneously, you are probably really rapidly switching attention back and forth between the two.",
+    "explanation": "True multitasking with demanding tasks is generally not possible for conscious processing. Instead, the brain rapidly switches attention back and forth between the tasks, which typically incurs a cognitive cost."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 4,
+    "question": "Which of the following is NOT a component of Baddeley’s working memory model?",
+    "options": [
+      "the phonological loop",
+      "the icon",
+      "the central executive",
+      "the visuospatial sketchpad"
+    ],
+    "correct_answer": "the icon",
+    "explanation": "Baddeley's working memory model consists of the central executive, phonological loop, visuospatial sketchpad, and later the episodic buffer. 'The icon' refers to iconic memory, a type of visual sensory memory, which is separate from working memory."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 4,
+    "question": "Sternberg’s classic work on searching for information from short-term memory indicated that the search process is:",
+    "options": [
+      "serial",
+      "self-terminating",
+      "parallel",
+      "both serial and exhaustive"
+    ],
+    "correct_answer": "both serial and exhaustive",
+    "explanation": "Saul Sternberg's memory-scanning experiment demonstrated that scanning short-term memory is serial (evaluating one item at a time) and exhaustive (searching through the entire list before generating a response, even if the target was already found)."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 4,
+    "question": "In the absence of rehearsal, short-term memory tends to:",
+    "options": [
+      "last about 20 seconds",
+      "last about 8 seconds",
+      "decay slowly over 24 hours",
+      "decay slowly over a week"
+    ],
+    "correct_answer": "last about 20 seconds",
+    "explanation": "Research, such as the classic Peterson and Peterson task, shows that without active rehearsal to maintain it, information in short-term memory decays rapidly, typically lasting only about 15 to 30 seconds."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 4,
+    "question": "The suffix effect relates to which type of memory?",
+    "options": [
+      "iconic",
+      "echoic",
+      "short term",
+      "working"
+    ],
+    "correct_answer": "echoic",
+    "explanation": "The suffix effect is a phenomenon observed in echoic (auditory sensory) memory, where adding an irrelevant auditory stimulus (a 'suffix') at the end of a spoken list severely impairs the recall of the final items."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 4,
+    "question": "Unattended information is stored briefly in:",
+    "options": [
+      "sensory memory",
+      "short-term memory",
+      "long-term memory",
+      "working memory"
+    ],
+    "correct_answer": "sensory memory",
+    "explanation": "Sensory memory acts as an initial, very brief buffer for all incoming sensory data. If this information is unattended, it decays almost immediately and is lost before it can be processed into short-term memory."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 4,
+    "question": "Retrieval involves:",
+    "options": [
+      "the activation of the senses.",
+      "the translation of information into a form that can be stored",
+      "the storage of information over time",
+      "the calling to mind of previously stored information"
+    ],
+    "correct_answer": "the calling to mind of previously stored information",
+    "explanation": "Retrieval is the third fundamental stage of memory (following encoding and storage). It is the cognitive process of locating, accessing, and bringing stored information back into conscious awareness."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 4,
+    "question": "The primacy and recency effects in memory:",
+    "options": [
+      "are thought to be due to the action of short-term memory",
+      "are thought to be due to the action of long-term memory",
+      "are thought to be due to the action of sensory memory",
+      "can be independently manipulated, indicating at least two types of memory at work"
+    ],
+    "correct_answer": "can be independently manipulated, indicating at least two types of memory at work",
+    "explanation": "The serial position curve shows that primacy (remembering early items due to LTM rehearsal) and recency (remembering late items due to STM availability) can be disrupted independently (e.g., a delay eliminates recency but not primacy), supporting the multi-store model of memory."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 4,
+    "question": "Information in short-term memory is assumed to be coded primarily by:",
+    "options": [
+      "sound",
+      "meaning",
+      "visual appearance",
+      "both sound and meaning"
+    ],
+    "correct_answer": "sound",
+    "explanation": "Classic research by Conrad (1964) demonstrated that recall errors in STM tend to be acoustic (e.g., confusing 'B' with 'V' or 'T'), suggesting that short-term memory predominantly relies on phonological or sound-based coding."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 4,
+    "question": "Repeating a phone number to yourself to hold it in memory while you dial it would use which component of working memory?",
+    "options": [
+      "the visuospatial sketchpad",
+      "the phonological loop",
+      "the episodic buffer",
+      "both the visuospatial sketchpad and the phonological loop"
+    ],
+    "correct_answer": "the phonological loop",
+    "explanation": "The phonological loop in Baddeley's model is responsible for the temporary storage and active rehearsal of speech-based and acoustic information, making it the component used for repeating a phone number."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 4,
+    "question": "Disrupting the process of long-term potentiation leads to:",
+    "options": [
+      "disruption of learning and remembering",
+      "recovery from anterograde amnesia",
+      "recovery from retrograde amnesia",
+      "language deficits"
+    ],
+    "correct_answer": "disruption of learning and remembering",
+    "explanation": "Long-term potentiation (LTP) is a persistent strengthening of synapses based on recent patterns of activity. It is widely considered the primary cellular mechanism underlying learning and memory formation."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 5,
+    "question": "As classically conceived, long-term memory is held to have all of the following properties EXCEPT:",
+    "options": [
+      "It comprises a permanent or at least semipermanent store.",
+      "It has virtually unlimited capacity.",
+      "It primarily uses acoustic coding.",
+      "Information stored within it is not always easily accessible."
+    ],
+    "correct_answer": "It primarily uses acoustic coding.",
+    "explanation": "Long-term memory is generally understood to use semantic coding (encoding by meaning) primarily. Acoustic coding (encoding by sound) is primarily associated with short-term or working memory."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 5,
+    "question": "Psychologists believe that the capacity of long-term memory is:",
+    "options": [
+      "unlimited",
+      "7 + 2 items",
+      "18 items",
+      "5000 items"
+    ],
+    "correct_answer": "unlimited",
+    "explanation": "Unlike short-term memory, which has a very limited capacity (famously described by George Miller as 7 +/- 2 items), the storage capacity of long-term memory is theorized to be practically unlimited."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 5,
+    "question": "Which of the following are most likely to be confused in long-term memory?",
+    "options": [
+      "the letters P and R",
+      "the letters C and B",
+      "the words “see” and “bee”",
+      "the words “big” and “large”"
+    ],
+    "correct_answer": "the words “big” and “large”",
+    "explanation": "Because long-term memory predominantly organizes information by meaning (semantic coding), items with similar meanings (like synonyms 'big' and 'large') are more susceptible to being confused or blended than items that merely sound or look alike."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 5,
+    "question": "The code in long-term memory is based on:",
+    "options": [
+      "sound.",
+      "visual imagery.",
+      "meaning",
+      "both sound and visual imagery."
+    ],
+    "correct_answer": "meaning",
+    "explanation": "Extensive research demonstrates that information in long-term memory is primarily encoded semantically, which means it is stored based on its meaning and conceptual associations."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 5,
+    "question": "Your memory for how to ride a bicycle is an example of ______ memory.",
+    "options": [
+      "explicit",
+      "implicit",
+      "declarative",
+      "procedural"
+    ],
+    "correct_answer": "procedural",
+    "explanation": "Procedural memory is a sub-category of implicit memory that involves motor skills and behavioral habits, such as riding a bike, typing, or tying shoelaces, which are retrieved unconsciously."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 5,
+    "question": "A retrieval cue will be most effective when it is highly distinctive or unusual, according to the principle of:",
+    "options": [
+      "cue overload.",
+      "encoding specificity.",
+      "mood dependence.",
+      "state dependence"
+    ],
+    "correct_answer": "cue overload.",
+    "explanation": "The cue overload principle states that a retrieval cue becomes less effective as more target memories are associated with it. Conversely, a highly distinctive or unusual cue avoids 'overload' because it is tied to very few memories, making it highly effective for retrieval."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 5,
+    "question": "Context effects and state-dependent learning effects occur:",
+    "options": [
+      "for recall tests only.",
+      "for recognition tests only.",
+      "for both recall and recognition.",
+      "for paired-associate tests only"
+    ],
+    "correct_answer": "for recall tests only.",
+    "explanation": "Research generally indicates that contextual and state-dependent cues have strong effects on recall tasks (where you must generate the answer) but little to no effect on recognition tasks (where the target item itself is presented and serves as a powerful overriding cue)."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 5,
+    "question": "Bahrick's study of retention of Spanish vocabulary words showed that large portions of information remained in long-term memory for:",
+    "options": [
+      "several months",
+      "1-2 years",
+      "up to 5 years",
+      "over 50 years"
+    ],
+    "correct_answer": "over 50 years",
+    "explanation": "Harry Bahrick's longitudinal studies demonstrated that people could retain high school Spanish vocabulary for up to 50 years, showing the incredible longevity of some long-term memories."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 5,
+    "question": "Techniques designed to improve memory, often involving the use of visual imagery, are called:",
+    "options": [
+      "mnemonics",
+      "eidetics",
+      "iconics",
+      "IQ enhancers"
+    ],
+    "correct_answer": "mnemonics",
+    "explanation": "Mnemonics are cognitive strategies and memory aids (such as the method of loci or pegword method) that use vivid mental pictures or verbal structures to anchor new information to existing memories."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 6,
+    "question": "According to the notion of cognitive economy, a characteristic like “has wings” would be stored along with which of the following semantic memory nodes?",
+    "options": [
+      "Bird.",
+      "Ostrich.",
+      "Hummingbird.",
+      "All of the above."
+    ],
+    "correct_answer": "Bird.",
+    "explanation": "In hierarchical network models, cognitive economy dictates that shared properties are stored at the highest level node (Bird) to save storage space."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 6,
+    "question": "Priming in lexical decision tasks may be explained by the idea of:",
+    "options": [
+      "Episodic memory.",
+      "Encoding specificity.",
+      "Spreading activation.",
+      "Typicality effects."
+    ],
+    "correct_answer": "Spreading activation.",
+    "explanation": "Spreading activation theory suggests that activating one concept in a semantic network triggers activation of closely related nodes, explaining the priming effect."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 6,
+    "question": "Which of the following is a good example of a superordinate level of categorization?",
+    "options": [
+      "Fruit.",
+      "Banana.",
+      "Fuji apple.",
+      "Golden delicious apple."
+    ],
+    "correct_answer": "Fruit.",
+    "explanation": "In conceptual hierarchies, the superordinate level is the most general and inclusive category (e.g., 'Fruit')."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 6,
+    "question": "The schema view of concept formation assumes that:",
+    "options": [
+      "There are clear boundaries among individual schemata.",
+      "There is cognitive economy among concepts.",
+      "Information is abstracted across instances.",
+      "No information is stored about actual instances."
+    ],
+    "correct_answer": "Information is abstracted across instances.",
+    "explanation": "Schemas are generalized frameworks formed by abstracting common features across multiple instances."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 6,
+    "question": "According to research by Collins and Quillian, the statement “Siamese cats have blue eyes” will be verified:",
+    "options": [
+      "slower than “Siamese cats give birth to live young.”",
+      "faster than “Siamese cats give birth to live young.”",
+      "in the same amount of time as “Siamese cats give birth to live young.”",
+      "slower than “Siamese cats have tails.”"
+    ],
+    "correct_answer": "faster than “Siamese cats give birth to live young.”",
+    "explanation": "Properties stored closely with the specific node ('Blue eyes' with 'Siamese cat') are verified faster than properties stored at higher superordinate nodes."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 6,
+    "question": "Conrad has found evidence that the statement “A shark can move” can be verified in the same amount of time as “An animal can move.”  These results suggest that reaction time is best predicted by:",
+    "options": [
+      "Cognitive economy.",
+      "Frequency of associations.",
+      "Encoding specificity.",
+      "Episodic memory."
+    ],
+    "correct_answer": "Frequency of associations.",
+    "explanation": "Reaction time is better predicted by how frequently concepts are associated in experience than by hierarchical distance."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 6,
+    "question": "Which of the following would be a part of your declarative memory system?",
+    "options": [
+      "knowing how to ride a bicycle.",
+      "knowing how to drive a car.",
+      "knowing how to react to a red light.",
+      "being able to name a hybrid car."
+    ],
+    "correct_answer": "being able to name a hybrid car.",
+    "explanation": "Declarative memory involves conscious recollection of factual information (naming a car) versus motor skills."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 6,
+    "question": "Collins and Loftus’s spreading activation theory differs from the hierarchical network theory in that:",
+    "options": [
+      "it dispenses with the idea of cognitive economy.",
+      "it relies on the assumption of hierarchical structure.",
+      "it cannot account for the typicality effect.",
+      "it makes stronger predictions than hierarchical models."
+    ],
+    "correct_answer": "it dispenses with the idea of cognitive economy.",
+    "explanation": "Collins and Loftus abandoned strict hierarchies and cognitive economy for a web of interconnected nodes based on experiential relatedness."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 6,
+    "question": "“Characteristic features” and “family resemblance” are important aspects of the _________ view of concepts.",
+    "options": [
+      "Classical.",
+      "Prototype.",
+      "Exemplar.",
+      "Schema."
+    ],
+    "correct_answer": "Prototype.",
+    "explanation": "The prototype approach argues that categories are structured around an ideal or average instance judge by family resemblance."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 6,
+    "question": "Studies of semantic memory have shown that in a lexical decision task, people are faster at responding to the stimulus “bread” if it is paired with a stimulus such as:",
+    "options": [
+      "rencle",
+      "dog",
+      "island",
+      "butter"
+    ],
+    "correct_answer": "butter",
+    "explanation": "Highly associated concepts like 'butter' prime related nodes like 'bread', leading to faster recognition."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 7,
+    "question": "According to the ______ view of concepts, people categorize new instances by comparing them to representations of previously stored instances.",
+    "options": [
+      "classical",
+      "prototype",
+      "exemplar",
+      "schema"
+    ],
+    "correct_answer": "exemplar",
+    "explanation": "The exemplar approach proposes that judgments are made by comparing a stimulus directly to specific stored instances."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 7,
+    "question": "According to the typicality effect, the statement “A dog is a household pet” should be verified:",
+    "options": [
+      "faster than “A poodle is a household pet.”",
+      "faster than “A dog is a living thing.”",
+      "faster than “A ferret is a household pet.”",
+      "faster than “A dog is an animal.”"
+    ],
+    "correct_answer": "faster than “A ferret is a household pet.”",
+    "explanation": "The typicality effect shows people respond faster to typical members (dog) than atypical ones (ferret)."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 7,
+    "question": "Which of the following would be considered an example of a “natural kind” concept?",
+    "options": [
+      "blue",
+      "wolf",
+      "odd number",
+      "mirror"
+    ],
+    "correct_answer": "wolf",
+    "explanation": "Natural kind concepts refer to naturally occurring entities like animals (wolf) or plants."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 7,
+    "question": "A schema for a routine event, such as going to the dentist, is called a:",
+    "options": [
+      "concept",
+      "script",
+      "exemplar",
+      "category"
+    ],
+    "correct_answer": "script",
+    "explanation": "A script is a schema for a typical sequence of events in routine situations like visiting a dentist."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 7,
+    "question": "A ________ is a mental representation of some object, event, or pattern.",
+    "options": [
+      "category",
+      "concept",
+      "script",
+      "memory"
+    ],
+    "correct_answer": "concept",
+    "explanation": "A concept is the internal mental representation of a class of things."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 7,
+    "question": "A ______ can be defined as a class of similar things that share either an essential core, or some similarity in perceptual, biological, or functional properties.",
+    "options": [
+      "category",
+      "concept",
+      "script",
+      "schema"
+    ],
+    "correct_answer": "category",
+    "explanation": "A category is the actual class or grouping of entities in the world that share common attributes."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 7,
+    "question": "Which of the following is NOT TRUE of the classical view of concepts?",
+    "options": [
+      "It proposes that concepts are mentally represented by lists of features.",
+      "It assumes that membership in a category is clear-cut.",
+      "It accurately predicts the typicality effect.",
+      "“Necessary” and “sufficient” features play an important role in the theory."
+    ],
+    "correct_answer": "It accurately predicts the typicality effect.",
+    "explanation": "The classical view fails to explain why people perceive some category members as better bird/fruit examples than others."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 7,
+    "question": "Which of the following is a good example of a basic level of categorization?",
+    "options": [
+      "musical instrument",
+      "piano",
+      "electronic keyboard",
+      "string instrument"
+    ],
+    "correct_answer": "piano",
+    "explanation": "Basic level categories (e.g., piano) provide the best balance of informativeness and distinctiveness."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 7,
+    "question": "If “soda” is a basic-level category, then ______ would be a subordinate level.",
+    "options": [
+      "soft drink",
+      "beverage",
+      "drink",
+      "coca-cola"
+    ],
+    "correct_answer": "coca-cola",
+    "explanation": "Subordinate categories are specific brands or types (e.g., Coca-Cola) within a basic category (soda)."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 7,
+    "question": "The ______ view of concepts argues that a person uses his/her theories about the way the world works to justify the classification of instances in the same category.",
+    "options": [
+      "classical",
+      "prototype",
+      "knowledge based",
+      "schema"
+    ],
+    "correct_answer": "knowledge based",
+    "explanation": "The knowledge-based view suggests categorization is driven by implicit theories and causal knowledge."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 8,
+    "question": "Participants doing mental imagery tasks tend to show brain activity in the:",
+    "options": [
+      "temporal lobe.",
+      "parietal lobe.",
+      "frontal lobe.",
+      "occipital lobe"
+    ],
+    "correct_answer": "occipital lobe",
+    "explanation": "Visual mental imagery activates the primary visual processing center in the occipital lobe."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 8,
+    "question": "How do people represent and navigate in and through space? This is a question of",
+    "options": [
+      "navigational cognition.",
+      "representational cognition.",
+      "spatial cognition.",
+      "visual cognition"
+    ],
+    "correct_answer": "spatial cognition.",
+    "explanation": "Spatial cognition studies how we acquire and use knowledge about spatial environments."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 8,
+    "question": "Images can prime the visual pathway, making it easier to detect a faint stimulus. This is an example of:",
+    "options": [
+      "perceptual equivalence.",
+      "spatial equivalence.",
+      "structural equivalence.",
+      "transformational equivalence"
+    ],
+    "correct_answer": "perceptual equivalence.",
+    "explanation": "Perceptual equivalence states imagery and perception activate the same visual system mechanisms."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 8,
+    "question": "Which of the following questions would take you the LONGEST TIME to answer?",
+    "options": [
+      "Which is faster, a turtle or a sports car?",
+      "Which is faster, a turtle or a cheetah?",
+      "Which is faster, a snail or a caterpillar?",
+      "Which is faster, a caterpillar or a cat?"
+    ],
+    "correct_answer": "Which is faster, a snail or a caterpillar?",
+    "explanation": "The symbolic distance effect means discriminating between objects with small differences (snail vs caterpillar) takes longer."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 8,
+    "question": "The relational-organizational hypothesis is supported by:",
+    "options": [
+      "the effectiveness of the method of loci.",
+      "the fact that concrete words are recalled better than abstract words.",
+      "the fact that noninteractive images do not facilitate recall whereas interactive images do facilitate recall.",
+      "the effectiveness of the pegword method."
+    ],
+    "correct_answer": "the fact that noninteractive images do not facilitate recall whereas interactive images do facilitate recall.",
+    "explanation": "Interactive imagery improves memory by creating relational 'hooks' between items."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 8,
+    "question": "Paivio’s ____ hypothesis argues that long-term memory contains two separate systems that represent information in verbal and visual forms, respectively.",
+    "options": [
+      "picture-word",
+      "dual code",
+      "visuo-verbal",
+      "relational-organizational"
+    ],
+    "correct_answer": "dual code",
+    "explanation": "Dual-coding theory suggests representing info with both verbal and visual codes increases memorability."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 8,
+    "question": "Which of the following methods would most help you to remember the word pair “elephant-cigar”?",
+    "options": [
+      "repeating the word “elephant” over and over while visualizing a cigar",
+      "visualizing an elephant smoking a cigar",
+      "repeating both words over and over to yourself",
+      "visualizing an elephant and a cigar, not touching each other"
+    ],
+    "correct_answer": "visualizing an elephant smoking a cigar",
+    "explanation": "Creating a single interactive image binds concepts into a cohesive relational unit for better retrieval."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 8,
+    "question": "Your mental map of your campus is probably:",
+    "options": [
+      "larger than reality.",
+      "smaller than reality.",
+      "more regular, with more straight lines and right angles, than reality.",
+      "less regular, with fewer straight lines and right angles, than reality"
+    ],
+    "correct_answer": "more regular, with more straight lines and right angles, than reality.",
+    "explanation": "Cognitive maps are subject to alignment heuristics that 'tidy up' borders and intersections."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 8,
+    "question": "Finke’s principle of _____ states that mental imagery allows us to retrieve information that was not intentionally stored.",
+    "options": [
+      "perceptual equivalence",
+      "transformational equivalence",
+      "implicit encoding",
+      "structural encoding"
+    ],
+    "correct_answer": "implicit encoding",
+    "explanation": "Implicit encoding means we can extract spatial details from a mental image that we didn't consciously try to memorize."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 8,
+    "question": "A propositional representation is thought to be ______ in nature.",
+    "options": [
+      "verbal",
+      "visual",
+      "both verbal and visual",
+      "neither verbal nor visual"
+    ],
+    "correct_answer": "neither verbal nor visual",
+    "explanation": "Propositional representations are abstract 'languages of thought' independent of sensory formats."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 9,
+    "question": "Which of the following is/are generally agreed upon as necessary criteria/criterion for claiming that a communication system is a language?",
+    "options": [
+      "regularity",
+      "productivity",
+      "referentiality",
+      "both regularity and productivity"
+    ],
+    "correct_answer": "both regularity and productivity",
+    "explanation": "Language must have structured rules (regularity) and the ability to express infinite new ideas (productivity)."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 9,
+    "question": "Infinite combinations of ideas can be expressed in language.  In other words, language is:",
+    "options": [
+      "regular",
+      "interpersonal",
+      "productive",
+      "referential"
+    ],
+    "correct_answer": "productive",
+    "explanation": "Productivity refers to the capacity to produce and understand an infinite number of novel sentences."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 9,
+    "question": "A fundamental problem of speech perception, according to Miller, is that:",
+    "options": [
+      "speech is discrete rather than continuous.",
+      "a single phoneme sounds different depending on its context.",
+      "hearing is a less accurate sense than vision.",
+      "missing phonemes can render words incomprehensible."
+    ],
+    "correct_answer": "a single phoneme sounds different depending on its context.",
+    "explanation": "Coarticulation means phoneme properties overlap and are influenced by surrounding sounds."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 9,
+    "question": "The branch of linguistics devoted to the study of meaning:",
+    "options": [
+      "phonetics",
+      "semantics",
+      "morphology",
+      "pragmatics"
+    ],
+    "correct_answer": "semantics",
+    "explanation": "Semantics focuses on the meaning of words and sentences."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 9,
+    "question": "Did she say “many” or “men knee”? This type of ambiguity is referred to as:",
+    "options": [
+      "phonetic",
+      "lexical",
+      "syntactic",
+      "semantic"
+    ],
+    "correct_answer": "phonetic",
+    "explanation": "Phonetic ambiguity occurs when speech streams can be segmented into different valid word groupings."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 9,
+    "question": "The underlying knowledge that allows people to produce and comprehend their language is called:",
+    "options": [
+      "linguistic performance",
+      "linguistic competence",
+      "linguistic production",
+      "grammatical behavior"
+    ],
+    "correct_answer": "linguistic competence",
+    "explanation": "Competence is the internalized knowledge of language rules, distinct from actual real-time usage (performance)."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 9,
+    "question": "The study of the ways in which sounds can be combined in any given language is called:",
+    "options": [
+      "phonology",
+      "morphology",
+      "syntax",
+      "grammar"
+    ],
+    "correct_answer": "phonology",
+    "explanation": "Phonology concerns the systematic organization of sounds and combination rules in a language."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 9,
+    "question": "We notice ambiguities in sentences:",
+    "options": [
+      "all the time.",
+      "in “garden path” sentences.",
+      "when they are humorous.",
+      "when they make no sense at all."
+    ],
+    "correct_answer": "in “garden path” sentences.",
+    "explanation": "Garden path sentences lead to syntactic dead ends, forcing us to notice the ambiguity and re-evaluate."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 9,
+    "question": "According to research, which of the following sets of sentences would take the longest amount of time to read and comprehend?",
+    "options": [
+      "We took the dog to the vet. The dog was nervous.",
+      "Sara drove the car to the market. The car ran out of gas.",
+      "She wrapped the Christmas presents. The sweater needed a larger box.",
+      "We got some beer out of the car. The beer was warm"
+    ],
+    "correct_answer": "She wrapped the Christmas presents. The sweater needed a larger box.",
+    "explanation": "This pair takes longest because it requires a bridging inference between 'presents' and 'sweater'."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 9,
+    "question": "Speech acts in which the utterance itself is the action—such as “You’re fired!”—are considered to be which type of speech act?",
+    "options": [
+      "declaration",
+      "directive",
+      "commissive",
+      "expressive"
+    ],
+    "correct_answer": "declaration",
+    "explanation": "A declaration changes the state of the world immediately through its utterance."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 10,
+    "question": "_____ is defined as “going beyond the information given.”",
+    "options": [
+      "Problem-solving",
+      "Thinking",
+      "Decision making",
+      "Remembering"
+    ],
+    "correct_answer": "Thinking",
+    "explanation": "Thinking involves drawing inferences and reaching goals by going beyond immediate sensory data."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 10,
+    "question": "Which of the following is an example of an ill-defined problem?",
+    "options": [
+      "putting together your schedule of classes for next semester",
+      "constructing a proof in geometry",
+      "solving an algebra problem",
+      "solving the Tower of Hanoi problem"
+    ],
+    "correct_answer": "putting together your schedule of classes for next semester",
+    "explanation": "Ill-defined problems lack clear goals or rules; class scheduling involves subjective, open-ended variables."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 10,
+    "question": "The problem-solving technique of ______ involves comparing the goal with the starting point, thinking of possible ways to overcome the distance between them, and choosing the best one.",
+    "options": [
+      "generate-and-test",
+      "means-end analysis",
+      "reasoning by analogy",
+      "mental set"
+    ],
+    "correct_answer": "means-end analysis",
+    "explanation": "Means-end analysis is a heuristic where subgoals are created to reduce the gap between current and goal states."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 10,
+    "question": "Mental set:",
+    "options": [
+      "can only be induced by large amounts of practice.",
+      "can lead us to make unwarranted assumptions about a problem.",
+      "involves the use of analogy to solve a problem.",
+      "aids problem solving because it supplies an efficient problem representation"
+    ],
+    "correct_answer": "can lead us to make unwarranted assumptions about a problem.",
+    "explanation": "A mental set is a bias toward approaching problems in old ways that may hinder finding simpler solutions."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 10,
+    "question": "When one recalls the solution to an old problem and uses it to solve a new, similarly structured problem, one has reasoned by:",
+    "options": [
+      "introspection.",
+      "analysis.",
+      "analogy.",
+      "backtracking"
+    ],
+    "correct_answer": "analogy.",
+    "explanation": "Analogical reasoning maps the structure of a familiar problem onto a novel one."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 10,
+    "question": "______ is a very important technique for solving the Towers of Hanoi problem.",
+    "options": [
+      "Mean-end analysis",
+      "Generate-and-test",
+      "Working backward",
+      "Trial and error"
+    ],
+    "correct_answer": "Working backward",
+    "explanation": "Working backward starts at the goal to trace a path to the initial state."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 10,
+    "question": "Which of the following is the best example of a well-defined problem?",
+    "options": [
+      "creating a guest list for a party",
+      "finding a detour around a traffic problem",
+      "constructing a proof in algebra",
+      "writing a paper for your cognition class"
+    ],
+    "correct_answer": "constructing a proof in algebra",
+    "explanation": "Well-defined problems have clear starting states and highly constrained rules like algebra proofs."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 10,
+    "question": "Psychologists focus on well-defined problems because:",
+    "options": [
+      "they are easy to present.",
+      "they often take weeks or months to solve.",
+      "they can be complicated to score.",
+      "they accurately mirror real-world problems."
+    ],
+    "correct_answer": "they are easy to present.",
+    "explanation": "Their strict parameters make them easier to control and score in laboratory settings."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 10,
+    "question": "Adoption of a rigid mental set toward an object is called:",
+    "options": [
+      "well-defined thinking.",
+      "ill-defined thinking.",
+      "functional fixedness",
+      "object set"
+    ],
+    "correct_answer": "functional fixedness",
+    "explanation": "Functional fixedness is the inability to see an object serving functions other than its typical one."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 10,
+    "question": "The General Problem Solver (GPS) is a computer program that solves problems in crypt arithmetic and logic using:",
+    "options": [
+      "mean end analysis",
+      "generate-and-test.",
+      "reasoning by analogy.",
+      "introspection ."
+    ],
+    "correct_answer": "mean end analysis",
+    "explanation": "GPS relies on means-end analysis to reduce the distance between current and goal states."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 11,
+    "question": "Deductive reasoning involves which of the following?",
+    "options": [
+      "going from general to specific statements",
+      "conclusions that add new information to what is given",
+      "going from specific to general statements",
+      "going from specific to specific statements"
+    ],
+    "correct_answer": "going from general to specific statements",
+    "explanation": "Deductive reasoning applies general rules to specific instances to reach certain conclusions."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 11,
+    "question": "If a person has five letters in his or her name, then s/he is a Glirple. I can now validly assume that:",
+    "options": [
+      "Shawn is a Glirple.",
+      "Shawn is a Glirple, and anyone who is not a Glirple cannot be named Susan.",
+      "anyone who is a Glirple must have five letters in his/her name.",
+      "anyone who is not a Glirple cannot be named Susan."
+    ],
+    "correct_answer": "Shawn is a Glirple, and anyone who is not a Glirple cannot be named Susan.",
+    "explanation": "Shawn (5 letters) is a Glirple (Modus Ponens); Susan (5 letters) must be a Glirple, so Non-Glirples cannot be Susan."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 11,
+    "question": "When we assess probability by judging the ease with which relevant examples come to mind, we are using the heuristic of:",
+    "options": [
+      "representativeness.",
+      "availability.",
+      "framing.",
+      "hindsight."
+    ],
+    "correct_answer": "availability.",
+    "explanation": "The availability heuristic judges likelihood based on how easily examples come to mind."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 11,
+    "question": "Which type of reasoning results in conclusions that contain new information?",
+    "options": [
+      "inductive reasoning",
+      "deductive reasoning",
+      "invalid reasoning",
+      "both inductive and deductive reasoning"
+    ],
+    "correct_answer": "inductive reasoning",
+    "explanation": "Inductive conclusions contain new info as they predict unobserved cases based on observed ones."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 11,
+    "question": "If performed correctly, deductive reasoning can be said to have ______. This means that it is impossible for the premises to be true and the conclusion to be false.",
+    "options": [
+      "inductive strength",
+      "deductive strength",
+      "inductive validity",
+      "deductive validity"
+    ],
+    "correct_answer": "deductive validity",
+    "explanation": "Deductive validity guarantees the conclusion's truth if the premises are true."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 11,
+    "question": "If a person has five letters in his/her name, then s/he is a Glirple. Angie now reasons that Fred cannot possibly be a Glirple. Angie has:",
+    "options": [
+      "made a correct inference according to modus ponens.",
+      "made a correct inference according to modus tollens.",
+      "committed the fallacy of denying the antecedent.",
+      "committed the fallacy of affirming the consequent."
+    ],
+    "correct_answer": "committed the fallacy of denying the antecedent.",
+    "explanation": "Angie assumes Not P (Fred has 4 letters) means Not Q (Not Glirple), which is the fallacy of denying the antecedent."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 11,
+    "question": "When Wason’s four-card task is replaced with an everyday problem about checking identification.",
+    "options": [
+      "people still neglect modus tollens in their responses.",
+      "people turn over all four cards instead of the two that are necessary and sufficient",
+      "people turn over only one card instead of the two that are necessary and sufficient.",
+      "about 75% of participants solve the problem correctly."
+    ],
+    "correct_answer": "about 75% of participants solve the problem correctly.",
+    "explanation": "Reframing logic into familiar social contexts dramatically improves performance."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 11,
+    "question": "Some members of the Jones family are tall. Some tall people play basketball. Which of the following is true?",
+    "options": [
+      "Logically, some members of the Jones family play basketball.",
+      "Logically, no members of the Jones family play basketball.",
+      "Most people assume that some members of the Jones family play basketball.",
+      "Most people assume that all members of the Jones family play basketball."
+    ],
+    "correct_answer": "Most people assume that some members of the Jones family play basketball.",
+    "explanation": "Most people intuitively assume validity due to the atmosphere effect, despite no logical guarantee of overlap."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 11,
+    "question": "The ease of reasoning about an analogy depends on all of these factors EXCEPT:",
+    "options": [
+      "the difficulty of comprehending the individual terms in the analogy.",
+      "the reasoner’s knowledge about the individual terms.",
+      "the difficulty of finding a relationship between the first two terms.",
+      "the reasoner’s amount of training in formal reasoning procedures."
+    ],
+    "correct_answer": "the reasoner’s amount of training in formal reasoning procedures.",
+    "explanation": "Analogical reasoning depends on domain knowledge and relationship spotting, not formal training."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 11,
+    "question": "Which of the following is a difference between everyday reasoning and formal reasoning?",
+    "options": [
+      "In everyday reasoning, all premises are usually supplied.",
+      "In everyday reasoning, there is typically one correct answer.",
+      "In everyday reasoning, problems are solved as a means of achieving other goals.",
+      "In formal reasoning, problems are not self-contained."
+    ],
+    "correct_answer": "In everyday reasoning, problems are solved as a means of achieving other goals.",
+    "explanation": "Everyday reasoning is a tool for practical goals, unlike abstract, self-contained formal logic."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 12,
+    "question": "The gambler’s fallacy is thought of as a special instance of:",
+    "options": [
+      "framing.",
+      "availability.",
+      "belief in the law of small numbers.",
+      "hindsight."
+    ],
+    "correct_answer": "belief in the law of small numbers.",
+    "explanation": "It assumes small samples must reflect population probabilities, expecting random processes to 'self-correct'."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 12,
+    "question": "You have just spent 10 minutes trying to figure out the answer to a single problem on your math quiz. In spite of your lack of success, you continue to struggle, neglecting to continue on to other problems because you’ve already invested so much time and effort in this problem. You have fallen victim to:",
+    "options": [
+      "the sunk cost effect.",
+      "a framing effect.",
+      "the anchor effect.",
+      "availability bias."
+    ],
+    "correct_answer": "the sunk cost effect.",
+    "explanation": "Sunk cost is the irrational tendency to persist based on unrecoverable past investment."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 12,
+    "question": "Normative models of decision making describe:",
+    "options": [
+      "how we ought to make decisions in realistic circumstances.",
+      "ideal performance under ideal circumstances.",
+      "what people actually do when they make decisions.",
+      "cognitive illusions"
+    ],
+    "correct_answer": "ideal performance under ideal circumstances.",
+    "explanation": "Normative models outline how a perfectly rational actor should decide under ideal conditions."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 12,
+    "question": "Past events seem “inevitable” due to the action of the:",
+    "options": [
+      "framing effect.",
+      "hindsight bias.",
+      "gambler's fallacy.",
+      "availability heuristic"
+    ],
+    "correct_answer": "hindsight bias.",
+    "explanation": "Hindsight bias makes past events seem predictable only after the outcome is known."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 12,
+    "question": "Anita is blonde, extremely attractive, and lives in an expensive condo. If we judge the probability of Anita’s being a model as quite high because she resembles our stereotype, we are using the heuristic of:",
+    "options": [
+      "representativeness",
+      "availability.",
+      "framing.",
+      "the law of small numbers"
+    ],
+    "correct_answer": "representativeness",
+    "explanation": "Representativeness estimates probability based on how closely an item matches a prototype or stereotype."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 12,
+    "question": "The mental activities that take place in choosing among alternatives are collectively called:",
+    "options": [
+      "problem solving.",
+      "inductive reasoning.",
+      "deductive reasoning.",
+      "decision making"
+    ],
+    "correct_answer": "decision making",
+    "explanation": "Decision making is the cognitive process resulting in the selection of a course of action from alternatives."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 12,
+    "question": "The tendency to seek out information that supports our current beliefs is called:",
+    "options": [
+      "believability effect.",
+      "content effect.",
+      "confirmation bias.",
+      "syllogistic reasoning."
+    ],
+    "correct_answer": "confirmation bias.",
+    "explanation": "Confirmation bias leads people to favor information that confirms pre-existing beliefs while ignoring contradictions."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 12,
+    "question": "Which of the following is NOT one of the five phases of decision making, according to Galotti?",
+    "options": [
+      "goal setting",
+      "information gathering",
+      "planning",
+      "random choice"
+    ],
+    "correct_answer": "random choice",
+    "explanation": "Galotti's model includes goals, gathering, structuring, choosing, and evaluation; 'random choice' is not a phase."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 12,
+    "question": "According to psychologists, human decision making often falls short of optimality because:",
+    "options": [
+      "there is not enough information available to make a rational decision.",
+      "one cannot be rational under conditions of uncertainty.",
+      "the information available overwhelms the cognitive processes.",
+      "rationality assumes a higher degree of intelligence than most people have."
+    ],
+    "correct_answer": "the information available overwhelms the cognitive processes.",
+    "explanation": "Bounded rationality asserts optimality is limited by the finite computational capacity of the human brain."
+  },
+  {
+    "year": 2026,
+    "assignment_no": 12,
+    "question": "The phase of decision making that involves finding a way to organize information is called:",
+    "options": [
+      "goal setting.",
+      "planning.",
+      "structuring the decision.",
+      "evaluating."
+    ],
+    "correct_answer": "structuring the decision.",
+    "explanation": "Structuring involves organizing gathered info into a manageable format like an attributes matrix."
+  }
+]
