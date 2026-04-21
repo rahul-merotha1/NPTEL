@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NPTEL Practice</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- HEADER -->
+  <h1>NPTEL Practice</h1>
+
+  <!-- START SCREEN -->
+  <div id="startScreen">
+    <div class="card">
+
+      <h2>Start Practice</h2>
+
+      <select id="yearSelect">
+        <option value="">Select Year (Optional)</option>
+        <option value="2026">2026</option>
+        <option value="2025">2025</option>
+        <option value="2022">2022</option>
+        <option value="2020">2020</option>
+        <option value="2018">2018</option>
+      </select>
+
+      <select id="assignmentSelect">
+        <option value="">Select Assignment (Optional)</option>
+      </select>
+
+      <button id="startBtn" class="start-btn" onclick="startQuiz()" disabled>
+        Loading...
+      </button>
+
+      <p class="hint">
+        👉 Select year/assignment or leave blank for mixed quiz
+      </p>
+
+    </div>
+  </div>
+
+  <!-- QUIZ SCREEN -->
+  <div id="quizScreen" class="hidden">
+
+    <div class="top-bar">
+      <div id="timer">⏱ 0s</div>
+      <button class="submit-btn" onclick="submitQuiz()">Submit</button>
+    </div>
+
+    <div id="quiz"></div>
+
+  </div>
+
+  <!-- RESULT SCREEN -->
+  <div id="resultScreen" class="hidden"></div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

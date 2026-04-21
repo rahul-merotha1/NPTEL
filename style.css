@@ -1,0 +1,204 @@
+/* RESET */
+* {
+  box-sizing: border-box;
+}
+
+/* BODY */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: white;
+}
+
+/* CONTAINER */
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* TITLE */
+h1 {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+/* START SCREEN */
+#startScreen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* CARD (FOR PC LOOK) */
+#startScreen > div {
+  background: #1e293b;
+  padding: 30px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 350px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+/* INPUTS */
+select, button {
+  padding: 12px;
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+}
+
+/* BUTTONS */
+.start-btn {
+  background: #22c55e;
+  color: white;
+  font-weight: bold;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+}
+
+/* HIDDEN */
+.hidden {
+  display: none;
+}
+
+/* TOP BAR */
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* TIMER */
+#timer {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* QUIZ GRID (PC VIEW) */
+#quiz {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 15px;
+}
+
+/* QUESTION CARD */
+.question {
+  background: #1e293b;
+  padding: 18px;
+  border-radius: 14px;
+  transition: 0.2s;
+}
+
+/* QUESTION TEXT */
+.question p {
+  font-size: 17px;
+}
+
+/* OPTIONS */
+.option {
+  display: block;
+  padding: 10px;
+  margin: 6px 0;
+  background: #334155;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.option:hover {
+  background: #475569;
+}
+
+/* STATES */
+.correct {
+  background: #16a34a !important;
+}
+
+.wrong {
+  background: #dc2626 !important;
+}
+
+/* EXPLANATION */
+.explanation {
+  margin-top: 10px;
+  padding: 10px;
+  background: #0f172a;
+  border-left: 4px solid #22c55e;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+/* RESULT */
+#resultScreen {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* ========================= */
+/* 📱 MOBILE RESPONSIVE */
+/* ========================= */
+
+@media (max-width: 768px) {
+
+  .container {
+    padding: 12px;
+  }
+
+  h1 {
+    font-size: 22px;
+  }
+
+  #startScreen > div {
+    width: 100%;
+    padding: 20px;
+  }
+
+  select, button {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .top-bar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  #timer {
+    font-size: 16px;
+  }
+
+  .question {
+    padding: 14px;
+  }
+
+  .option {
+    font-size: 14px;
+  }
+}
+
+/* ========================= */
+/* 💻 LARGE SCREEN ENHANCEMENT */
+/* ========================= */
+
+@media (min-width: 1024px) {
+
+  #quiz {
+    grid-template-columns: 1fr 1fr; /* 2 column layout */
+  }
+
+  .question {
+    padding: 20px;
+  }
+}
