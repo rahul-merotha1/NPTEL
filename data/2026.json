@@ -592,82 +592,132 @@
   {
     "year": 2026,
     "assignment_no": 5,
-    "question": "If you want to learn about cause and effect, you must use the experimental method.",
-    "options": ["True", "False"],
-    "correct_answer": "True",
-    "explanation": "The experimental method is the only research design that can establish a formal cause-and-effect relationship by manipulating an independent variable while controlling others."
+    "question": "As classically conceived, long-term memory is held to have all of the following properties EXCEPT:",
+    "options": [
+      "It comprises a permanent or at least semipermanent store.",
+      "It has virtually unlimited capacity.",
+      "It primarily uses acoustic coding.",
+      "Information stored within it is not always easily accessible."
+    ],
+    "correct_answer": "It primarily uses acoustic coding.",
+    "explanation": "Long-term memory primarily uses semantic coding (meaning), whereas acoustic coding is more characteristic of short-term memory."
   },
   {
     "year": 2026,
     "assignment_no": 5,
-    "question": "It is easier to recognize the letter “X” within the word “TEXT” than the letter “X” presented on its own.",
-    "options": ["True", "False"],
-    "correct_answer": "False",
-    "explanation": "While the Word-Superiority Effect applies to words vs. non-words, identifying a single letter in isolation is generally faster/easier than identifying it within a string of other letters due to lack of interference."
+    "question": "Psychologists believe that the capacity of long-term memory is:",
+    "options": [
+      "unlimited",
+      "7 + 2 items",
+      "18 items",
+      "5000 items"
+    ],
+    "correct_answer": "unlimited",
+    "explanation": "Unlike short-term memory, which is limited, long-term memory is considered to have a virtually limitless capacity for storing information over a lifetime."
   },
   {
     "year": 2026,
     "assignment_no": 5,
-    "question": "Suppose you look at a vehicle and end up by just remembering '-nda' from the manufacturers name. You then come up with the Honda to the manufacturer's name. You have used.",
-    "options": ["bottom up processing", "top down processing", "primacy effect", "recency effect"],
-    "correct_answer": "top down processing",
-    "explanation": "You used your prior knowledge and context (stored name 'Honda') to fill in the missing information, which is a hallmark of top-down processing."
+    "question": "Which of the following are most likely to be confused in long-term memory?",
+    "options": [
+      "the letters P and R",
+      "the letters C and B",
+      "the words “see” and “bee”",
+      "the words “big” and “large”"
+    ],
+    "correct_answer": "the words “big” and “large”",
+    "explanation": "Because long-term memory relies on semantic (meaning-based) coding, words with similar meanings are more likely to be confused than those that simply sound similar."
   },
   {
     "year": 2026,
     "assignment_no": 5,
-    "question": "Eye witness testimony are mostly flawed. A optimal method for improving the accuracy of such testimony is",
-    "options": ["police interview", "hypnosis", "cognitive interview", "cued recall"],
-    "correct_answer": "cognitive interview",
-    "explanation": "The cognitive interview technique uses psychological principles to help witnesses retrieve more accurate and detailed memories without creating false ones."
+    "question": "The code in long-term memory is based on:",
+    "options": [
+      "sound.",
+      "visual imagery.",
+      "meaning",
+      "both sound and visual imagery."
+    ],
+    "correct_answer": "meaning",
+    "explanation": "Information in long-term memory is primarily encoded by its meaning, a process known as semantic encoding."
   },
   {
     "year": 2026,
     "assignment_no": 5,
-    "question": "Ramu is given directions to village temple. After some time he remembers only the first couple of instructions. This phenomena illustrates",
-    "options": ["primacy effect", "recency effect", "forgetting", "availability"],
-    "correct_answer": "primacy effect",
-    "explanation": "The primacy effect is the tendency to remember the first items in a list better than those in the middle or end."
+    "question": "Your memory for how to ride a bicycle is an example of ______ memory.",
+    "options": [
+      "explicit",
+      "implicit",
+      "declarative",
+      "procedural"
+    ],
+    "correct_answer": "procedural",
+    "explanation": "Procedural memory is a type of implicit memory that stores information on how to perform certain procedures, such as walking, talking, or riding a bike."
   },
   {
     "year": 2026,
     "assignment_no": 5,
-    "question": "The belief that most of our abilities and tendencies are with us from birth is known as",
-    "options": ["nativism", "empiricism", "associationism", "introspection"],
-    "correct_answer": "nativism",
-    "explanation": "Nativism is the philosophical view that certain skills or abilities are 'native' or hard-wired into the brain at birth."
+    "question": "A retrieval cue will be most effective when it is highly distinctive or unusual, according to the principle of:",
+    "options": [
+      "cue overload.",
+      "encoding specificity.",
+      "mood dependence.",
+      "state dependence"
+    ],
+    "correct_answer": "cue overload.",
+    "explanation": "The cue overload principle suggests that the more items associated with a specific cue, the less effective that cue will be for retrieving any one of those items."
   },
   {
     "year": 2026,
     "assignment_no": 5,
-    "question": "Noam Chomsky revolutionized the field of ______ and showed how behaviorism could not adequately explain language.",
-    "options": ["neuroscience", "computer science", "human factors", "linguistics"],
-    "correct_answer": "linguistics",
-    "explanation": "Chomsky’s critique of Skinner’s behaviorist view of language was a pivotal moment in the cognitive revolution."
+    "question": "Context effects and state-dependent learning effects occur:",
+    "options": [
+      "for recall tests only.",
+      "for recognition tests only.",
+      "for both recall and recognition.",
+      "for paired-associate tests only"
+    ],
+    "correct_answer": "for recall tests only.",
+    "explanation": "Research indicates that context and state-dependent effects are most robust in recall tasks where learners must generate the information themselves using internal/external cues."
   },
   {
     "year": 2026,
     "assignment_no": 5,
-    "question": "The process of interpreting a stimulus is called",
-    "options": ["perception", "attention", "recognition", "recall"],
-    "correct_answer": "perception",
-    "explanation": "Perception is the process of organizing and interpreting sensory information to recognize meaningful objects and events."
+    "question": "Bahrick’s study of retention of Spanish vocabulary words showed that large portions of information remained in long-term memory for:",
+    "options": [
+      "several months",
+      "1-2 years",
+      "up to 5 years",
+      "over 50 years"
+    ],
+    "correct_answer": "over 50 years",
+    "explanation": "Harry Bahrick's research on 'permastore' found that people could retain significant amounts of a foreign language for over 50 years even without active use."
   },
   {
     "year": 2026,
     "assignment_no": 5,
-    "question": "The belief that psychological phenomena cannot be reduced to simple elements but must be studied in their entirety is central to the school known as",
-    "options": ["Structuralism", "Gestalt psychology", "Functionalism", "Behaviorism"],
-    "correct_answer": "Gestalt psychology",
-    "explanation": "Gestalt psychology is based on the principle that 'the whole is different than the sum of its parts.'"
+    "question": "Techniques designed to improve memory, often involving the use of visual imagery, are called:",
+    "options": [
+      "mnemonics",
+      "eidetics",
+      "iconics",
+      "IQ enhancers"
+    ],
+    "correct_answer": "mnemonics",
+    "explanation": "Mnemonics are memory aids that help link new information to existing knowledge through patterns, acronyms, or visual images."
   },
   {
     "year": 2026,
     "assignment_no": 5,
-    "question": "A body of knowledge structured according to what its proponents consider important, which guides research topics and research methods, is called",
-    "options": ["paradigm", "hypothesis", "methodology", "metaphor"],
-    "correct_answer": "paradigm",
-    "explanation": "A paradigm is a distinct set of concepts or thought patterns, including theories, research methods, and standards for what constitutes legitimate contributions to a field."
+    "question": "Your memory of your first college lecture would be an example of:",
+    "options": [
+      "semantic memory.",
+      "episodic memory.",
+      "implicit memory.",
+      "working memory."
+    ],
+    "correct_answer": "episodic memory.",
+    "explanation": "Episodic memory involves the recollection of specific events, situations, and experiences from one's personal past."
   },
   {
     "year": 2026,
