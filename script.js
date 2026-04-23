@@ -89,7 +89,7 @@ function startQuiz() {
     selectedQuestions = selectedQuestions.filter(q => q.year === year);
   }
 
-  if (assignment) {
+ if (!isNaN(assignment)) {
     selectedQuestions = selectedQuestions.filter(q => q.assignment_no === assignment);
   }
 
