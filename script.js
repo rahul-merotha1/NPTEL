@@ -7,7 +7,7 @@ let isDataLoaded = false;
 
 // ✅ LOAD ALL JSON FILES
 async function loadAllData() {
-  const years = [2026, 2025, 2022, 2020, 2018];
+  const years = [2026, 2025,2024,2023, 2022, 2020, 2018];
 
   for (let year of years) {
     try {
